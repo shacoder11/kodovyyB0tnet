@@ -1,4 +1,4 @@
-# 🚀 Kodovy DDoS Tool
+# 🚀 Kodovy UDP DDoS Tool
 *Created by Kodovyy | Educational Use Only*
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
